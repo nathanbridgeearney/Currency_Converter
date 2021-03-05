@@ -27,7 +27,7 @@ public class Main {
             System.exit(0);
         }
         else {
-            System.out.println("Please enter Yes, yes, no, or No");
+            System.out.println("Please enter Yes, yes, no, or No and try again");
             next();
         }
     }
